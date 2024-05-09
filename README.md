@@ -4,10 +4,19 @@ This is a simple weather app that allows users to get weather information for an
 
 ![Weather App Screenshot](Weather_app.png)
 
-## Installation
+## Features
+- Get weather information for any city in real-time.
+- Display temperature, weather condition, humidity, and wind speed.
+- Dynamic background image based on the searched city.
+- Intuitive search functionality with a clickable button and "Enter" key support.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Technologies Used
+- **HTML**: Structure of the app.
+- **CSS**: Styling and layout.
+- **JavaScript**: Fetch weather data from OpenWeatherMap API and handle user interactions.
+- **API**: OpenWeatherMap for weather data.
 
+## Getting Started
+To run the weather app on your local environment:
 ```bash
-pip install -r requirements.txt
-```
+git clone https://github.com/Anonymous15052003/weather-prediction-app.git
